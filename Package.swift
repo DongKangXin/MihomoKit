@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "Mihomo",
             url: "https://github.com/DongKangXin/mihomo/releases/download/iOS-1.0/Mihomo-iOS-Package.zip",
-            checksum: "sha256:b68298dc424ea5e88ba302849e84ff1d3abeffd9ba2dddf795fee851e751d6ab"
+            checksum: "b68298dc424ea5e88ba302849e84ff1d3abeffd9ba2dddf795fee851e751d6ab"
         )
     ]
 )
